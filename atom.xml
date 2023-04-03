@@ -3,11 +3,11 @@
   <title>兔老大</title>
   
   <subtitle>保持热爱, 奔赴星海.</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://boss-rabbit.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://boss-rabbit.github.io/"/>
   <updated>2023-03-28T07:39:20.157Z</updated>
-  <id>http://example.com/</id>
+  <id>https://boss-rabbit.github.io/</id>
   
   <author>
     <name>兔老大</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://boss-rabbit.github.io/posts/4a17b156.html"/>
+    <id>https://boss-rabbit.github.io/posts/4a17b156.html</id>
     <published>2023-03-21T08:51:11.800Z</published>
     <updated>2023-03-28T07:39:20.157Z</updated>
     
